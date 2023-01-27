@@ -28,4 +28,4 @@ st.markdown('It has recognized all the potential upward and downtrends in stock 
 
 st.markdown('----')
 st.markdown('### View the full report here ')
-st.markdown('https://github.com/sumittttttt/Crypto-Price-Prediction/blob/main/Report.pdf')
+st.markdown('https://github.com/sumittttttt/Crypto-price-prediction/blob/main/Report.pdf')
